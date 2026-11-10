@@ -30,7 +30,6 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 **Backend & Enterprise**
 
@@ -39,6 +38,12 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
 ![Temenos T24](https://img.shields.io/badge/Temenos%20T24-0B3D91?style=flat&logo=databricks&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **Generative AI & Agents**
 
