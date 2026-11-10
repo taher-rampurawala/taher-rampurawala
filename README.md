@@ -38,6 +38,7 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
 ![Temenos T24](https://img.shields.io/badge/Temenos%20T24-0B3D91?style=flat&logo=databricks&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 **Frontend**
 
@@ -99,7 +100,6 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
