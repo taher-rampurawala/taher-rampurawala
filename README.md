@@ -107,8 +107,15 @@ An n8n workflow that lets patients of a dental clinic book appointments over Wha
 ### 🏦 Automated FD Advice Generation System
 Built on enterprise **Spring reactive microservices**. It picks up **Temenos T24** events, enriches the data into predefined HTML templates and emails the advice to customers automatically.
 
-### 🌐 AI Automation Portfolio *(coming soon)*
-A shareable portfolio of my n8n and AI automation projects for clients.
+### 📞 Voice AI Agent: Dental Clinic Appointment Booking
+Patients phone the clinic and talk to **Riya**, a Retell AI voice agent that speaks English, Hindi and Hinglish. It books, cancels and moves appointments through an n8n webhook and a Google Sheet shared with the WhatsApp booking bot.
+
+🔗 [View the project](https://github.com/taher-rampurawala/n8n_workflows_project/tree/main/Booking%20Appointment%20using%20Voice%20AI%20Agent)
+
+### 🧾 Invoice Processing Automation
+A Google Drive-triggered n8n pipeline. Drop an invoice into a folder and AI-powered OCR extracts the fields, logs them to a Google Sheet, renames and files the document, and routes failed extractions to an error folder.
+
+🔗 [View the project](https://github.com/taher-rampurawala/n8n_workflows_project/tree/main/Invoice%20Processing%20Automation)
 
 ---
 
