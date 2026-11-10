@@ -71,6 +71,7 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM%20MQ-054ADA?style=flat&logo=ibm&logoColor=white)
 
 **Automation & Integrations**
 
