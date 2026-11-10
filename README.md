@@ -42,20 +42,64 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 **Generative AI & Agents**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat&logo=robotframework&logoColor=white)
 ![Voice Agents](https://img.shields.io/badge/Voice%20Agents-7C3AED?style=flat&logo=googleassistant&logoColor=white)
 ![WhatsApp AI Agents](https://img.shields.io/badge/WhatsApp%20AI%20Agents-25D366?style=flat&logo=whatsapp&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat&logo=databricks&logoColor=white)
+
+**Vector & Retrieval**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+
+**Databases & Queues**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Automation & Integrations**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-F5A623?style=flat)
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Meta Cloud API](https://img.shields.io/badge/Meta%20Cloud%20API-0467DF?style=flat&logo=meta&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Cloud & Tools**
+**DevOps & Cloud**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD (GitHub Actions)](https://img.shields.io/badge/CI/CD%20(GitHub%20Actions)-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+
+**Tools**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
