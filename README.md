@@ -35,6 +35,7 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 **Backend & Enterprise**
 
 ![Spring Reactive](https://img.shields.io/badge/Spring%20Reactive-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat&logo=docker&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
 ![Temenos T24](https://img.shields.io/badge/Temenos%20T24-0B3D91?style=flat&logo=databricks&logoColor=white)
@@ -56,8 +57,6 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 
 **Databases & Queues**
 
@@ -66,13 +65,10 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Automation & Integrations**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-F5A623?style=flat)
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Meta Cloud API](https://img.shields.io/badge/Meta%20Cloud%20API-0467DF?style=flat&logo=meta&logoColor=white)
@@ -91,14 +87,13 @@ I build n8n workflows, WhatsApp AI agents, voice agents and UGC content for busi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
 **Tools**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
