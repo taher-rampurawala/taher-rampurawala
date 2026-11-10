@@ -64,17 +64,6 @@ A shareable portfolio of my n8n and AI automation projects for clients.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=taher-rampurawala&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taher-rampurawala&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Work Together
 
 Need a WhatsApp AI agent, a voice agent, an n8n automation or AI-made UGC for your business?
